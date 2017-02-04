@@ -1,0 +1,2 @@
+# Scroozer
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/716372cc0f5b4cca9dc73b23e427c582)](https://www.codacy.com/app/pulkit4tech/Scroozer?utm_source=github.com&utm_medium=referral&utm_content=pulkit4tech/Scroozer&utm_campaign=badger)
